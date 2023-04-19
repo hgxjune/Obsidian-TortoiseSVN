@@ -1,7 +1,7 @@
 {
-	"name": "obsidian-sample-plugin",
+	"name": "obsidian-tortoisesvn",
 	"version": "1.0.0",
-	"description": "This is a sample plugin for Obsidian (https://obsidian.md)",
+	"description": "Backup your Obsidian (https://obsidian.md) vault with TortoiseSVN.",
 	"main": "main.js",
 	"scripts": {
 		"dev": "node esbuild.config.mjs",
