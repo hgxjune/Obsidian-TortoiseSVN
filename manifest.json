@@ -1,7 +1,7 @@
 {
 	"id": "obsidian-tortoisesvn",
 	"name": "Obsidian TortoiseSVN",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"minAppVersion": "0.15.0",
 	"description": "Backup your vault with TortoiseSVN.",
 	"author": "hgxjune",
